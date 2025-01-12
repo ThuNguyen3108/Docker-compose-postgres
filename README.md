@@ -5,3 +5,6 @@
 Link: https://github.com/khezen/compose-postgres/blob/master/docker-compose.yml
 
 ![image](https://github.com/user-attachments/assets/ff847682-953b-4dfc-a3a3-3c087443c9ea)
+
+
+https://www.youtube.com/watch?v=zw4s3Ey8ayo&ab_channel=TroyAmelotte
