@@ -8,3 +8,5 @@ Link: https://github.com/khezen/compose-postgres/blob/master/docker-compose.yml
 
 
 https://www.youtube.com/watch?v=zw4s3Ey8ayo&ab_channel=TroyAmelotte
+
+alt + X to execute sql
