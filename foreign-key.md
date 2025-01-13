@@ -3,7 +3,10 @@ create table post(
 	name VARCHAR(255),
 	content text,
 	user_id INT,
-	CONSTRANT fk_user
-		foreign key(user_id)
-			references "user"(id)
+	CONSTRAINT fk_user
+		FOREIGN KEY(user_id)
+			REFERENCES "user"(id)
 );
+
+
+![image](https://github.com/user-attachments/assets/95d2b2db-e4e7-49db-a773-7f702d171a96)
