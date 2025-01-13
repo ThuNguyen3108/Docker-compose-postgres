@@ -9,3 +9,12 @@ create table "user"(
 insert into "user" (email, name, age, password) values ('troy@fake.email','Troy',
 '26', 'abc123abc');
 
+
+select * from "user";
+
+select id, name, email from "user";
+
+select * from "user" where age > 27;
+
+select * from "user" where id = 1;
+
